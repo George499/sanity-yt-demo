@@ -12,9 +12,9 @@ Preview the example live on [StackBlitz](http://stackblitz.com/):
 
 Deployed using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
 
-![ScreenShot]({https://vercel.com/16d7b21a-a980-48e9-bde5-498fe4cb99a2})
-
 [Check this example on Vercel](https://sanity-yt-demo.vercel.app)
+[![16d7b21a-a980-48e9-bde5-498fe4cb99a2.png](https://i.postimg.cc/28frGB13/16d7b21a-a980-48e9-bde5-498fe4cb99a2.png)](https://postimg.cc/0rZT2jdq)
+
 
 ## How to use
 
