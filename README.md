@@ -12,7 +12,7 @@ Preview the example live on [StackBlitz](http://stackblitz.com/):
 
 Deployed using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
 
-[![Check this example on Vercel](<https://vercel.com/16d7b21a-a980-48e9-bde5-498fe4cb99a2" class="screenshot_image__fGVUW" alt="Preview Screenshot of sanity-yt-demo.vercel.app">)](https://sanity-yt-demo.vercel.app)
+[![Check this example on Vercel](<https://vercel.com/16d7b21a-a980-48e9-bde5-498fe4cb99a2" alt="Preview Screenshot of sanity-yt-demo.vercel.app">)](https://sanity-yt-demo.vercel.app)
 
 ## How to use
 
