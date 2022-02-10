@@ -10,9 +10,9 @@ Preview the example live on [StackBlitz](http://stackblitz.com/):
 
 ## Deploy your own
 
-Deployed using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+Check this example deployed using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
 
-[![16d7b21a-a980-48e9-bde5-498fe4cb99a2.png](https://i.postimg.cc/28frGB13/16d7b21a-a980-48e9-bde5-498fe4cb99a2.png)](https://postimg.cc/0rZT2jdq)
+[![16d7b21a-a980-48e9-bde5-498fe4cb99a2.png](https://i.postimg.cc/28frGB13/16d7b21a-a980-48e9-bde5-498fe4cb99a2.png)](http://sanity-yt-demo.vercel.app/)
 
 
 ## How to use
